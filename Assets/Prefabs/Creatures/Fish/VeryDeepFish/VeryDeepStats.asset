@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9dfb8cc1b5582b4ca77f1bafcffbc07, type: 3}
+  m_Name: VeryDeepStats
+  m_EditorClassIdentifier: 
+  ID: 6
+  MaxSpeed: 4
+  Acceleration: 1
+  RotationalSpeed: 90
+  MaxHunger: 300
+  HuntingDistance: 20
+  Prey: 04000000
+  MaxRepoNeed: 50
+  SearchDidstance: 20
+  MaxEnergy: 100
+  MaxAge: 75
